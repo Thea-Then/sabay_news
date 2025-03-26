@@ -61,6 +61,7 @@ a {
 /* Nav  */
 
 .NavContainer {
+  z-index:1;
   display: flex;
   top: -1px;
   width: 100%;
